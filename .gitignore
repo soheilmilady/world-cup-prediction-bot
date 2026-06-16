@@ -1,0 +1,14 @@
+# Local Test Files
+test*.py
+tests/
+*.log
+.venv/
+.vscode/
+__pycache__/
+.env
+API.txt
+*.jpg
+*.webp
+matchs.txt
+*.db
+view_db.py
